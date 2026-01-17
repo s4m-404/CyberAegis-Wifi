@@ -45,9 +45,9 @@ sudo python3 main.py -i wlan0mon
 
 ## 👤 Author & Developer
 
-**Name:** `s4m_4o4`  
-**Role:** Cybersecurity Researcher & SOC Specialist  
-**GitHub:** [@s4m-404](https://github.com/s4m-404)
+🏆 Name: `s4m_4o4`  
+🛠️ Role: Ethical Hacker & SOC Analyst  
+🌐 GitHub: [@s4m-404](https://github.com/s4m-404)
 
 > "Building tools to secure the invisible waves." 🛡️
 
