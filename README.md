@@ -41,16 +41,17 @@ pip3 install -r requirements.txt
 
 # Run the Auditor
 sudo python3 main.py -i wlan0mon
-
 ---
 
 ## 👤 Author & Developer
 
-**Name:** **s4m_4o4** **Role:** **Cybersecurity Researcher & SOC Specialist** **GitHub:** [**@s4m-404**](https://github.com/s4m-404)
+**Name:** `s4m_4o4`  
+**Role:** Cybersecurity Researcher & SOC Specialist  
+**GitHub:** [@s4m-404](https://github.com/s4m-404)
 
-> ### **"Building tools to secure the invisible waves."** 🛡️
+> "Building tools to secure the invisible waves." 🛡️
 
 ---
 
 ## 📜 Legal Disclaimer
-**NOTICE:** This tool is strictly for **educational purposes** and **authorized security auditing**. Unauthorized use of this tool against networks without prior consent is illegal. The developer (**s4m_4o4**) is not responsible for any misuse.
+This tool is strictly for **educational purposes** and **authorized security auditing**. Unauthorized use of this tool against networks without prior consent is illegal. The developer (**s4m_4o4**) is not responsible for any misuse.
